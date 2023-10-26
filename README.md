@@ -2,15 +2,7 @@
 
 ## How to install
 
-```
-npm install --save SocialSchools/socs-event-times
-```
-
-or
-
-```
-yarn add SocialSchools/socs-event-times
-```
+This repo might not stay here, so best way is to copy the contents if the `src` folder to a `socs-event-times` folder in your code, and make sure the `date-fns` package is installed.
 
 ## How to use
 
